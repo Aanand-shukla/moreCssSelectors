@@ -1,0 +1,21 @@
+header.header-part li{
+    color: red
+}
+
+ section.second-section p+h2{
+    color:pink;
+}
+
+article>h2{
+    background-color: bisque;
+}
+ footer ul li {
+    color: brown;
+ }
+
+article.first-article p{
+    color:burlywood;
+}
+ section.second-section > p{
+    color:gold;
+ }
